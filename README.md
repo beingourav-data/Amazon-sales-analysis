@@ -35,7 +35,6 @@ Product Leaderboards: Identifies and ranks the Top 5 Products based on both YTD 
 **5. Screenshot**
 
 Dashboard preview- 
-https://github.com/beingourav-data/Amazon-sales-analysis/blob/main/Dashboard%20snapshot.png)
-
+https://github.com/beingourav-data/Amazon-sales-analysis/blob/main/Dashboard%20snapshot.png
 
 # Amazon-sales-analysis
