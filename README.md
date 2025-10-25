@@ -1,4 +1,4 @@
-**1. Amazon Product Sales Analysis Dashboard (Power BI)**
+1. Amazon Product Sales Analysis Dashboard (Power BI)
 Interactive Power BI dashboard providing insights into Amazon product sales, category performance, and customer reviews. Visualizes YTD and QTD sales trends, top-performing products, and key metrics across categories and time periods.
 
 **2. Purpose of this analysis**
@@ -24,7 +24,8 @@ Category Deep Dive: Detailed tabular breakdown showing the proportional contribu
 Product Leaderboards: Identifies and ranks the Top 5 Products based on both YTD Revenue and Customer Review Volume, allowing for a dual focus on sales success and customer engagement.
 
 **5. Screenshot**
-Dashboard preview- https://github.com/beingourav-data/Amazon-sales-analysis/blob/main/Dashboard%20snapshot.png
+Dashboard preview- 
+https://github.com/beingourav-data/Amazon-sales-analysis/blob/main/Dashboard%20snapshot.png)
 
 
 # Amazon-sales-analysis
