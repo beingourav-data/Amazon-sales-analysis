@@ -9,10 +9,15 @@ The purpose of this dashboard is to analyze Amazon’s product sales data to ide
 **3. Tech Stack**
 
 Power BI for visualization
+
 Data modeling- relationships established among tables
+
 Power Query for data transformation
+
 DAX for KPI calculations
+
 Excel for initial data preparation using CSV datasets.
+
 File format:- Pbix for PowerBi and png for snapshot
 
 **4. Highlight**
